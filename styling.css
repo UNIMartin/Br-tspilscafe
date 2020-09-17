@@ -1,0 +1,11 @@
+.theme_page{
+    background-color: #1A2736
+}
+
+.image_container{
+    display: block;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30%;
+ }
